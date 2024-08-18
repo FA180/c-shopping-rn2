@@ -59,7 +59,7 @@ const CartItem = props => {
           )}
           <View className="flex flex-row items-center gap-x-2">
             <Icons.Ionicons name="shield-checkmark-outline" size={20} className="icon" />
-            <Text className="font-light">正品保证和发货保证</Text>
+            <Text className="font-light">Authenticity guarantee and delivery guarantee</Text>
           </View>
           <View className="flex flex-row items-center gap-x-2">
             <Icons.MaterialIcons name="save" size={20} className="icon text-sky-400" />
